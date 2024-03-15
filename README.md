@@ -1,4 +1,7 @@
 
+
+![Home](https://github.com/dharmenderchoudhary99/Disney-App-Clone/assets/120792811/37cbc71d-6050-49f2-9bf0-738488b0bf77)
+
 # Disney+ Clone
 
     This repository contains a Disney+ clone built using React.js, styled-components, and deployed on Firebase. The project aims to replicate the user interface and functionality of Disney+'s streaming service, showcasing a variety of movies and series available on the platform.
